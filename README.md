@@ -40,21 +40,21 @@ Your dbt project includes:
 
 **Dynamic Partition Setup in dbt:**
 
-```markdown
+
 ![Dynamic Partition](analyses/dbt_dynamic.png)
-```
+
 
 **Final Fact/Mart Results in BigQuery:**
 
-```markdown
+
 ![BigQuery Result](analyses/big_query.png)
-```
+
 
 **dbt Documentation (Lineage & Models):**
 
-```markdown
+
 ![dbt Docs](analyses/dbt_docs.png)
-```
+
 
 ---
 
